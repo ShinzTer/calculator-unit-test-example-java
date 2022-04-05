@@ -1,0 +1,11 @@
+{
+	"Print to console": {
+		"scope": "java",
+		"prefix": "author",
+		"body": [
+			"console.log('D');",
+			"S"
+		],
+		"description": "Initials"
+	}
+}
