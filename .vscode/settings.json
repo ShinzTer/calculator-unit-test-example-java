@@ -1,3 +1,9 @@
 {
-    "java.format.settings.url": ".vscode/java-formatter.xml"
+    "workbench.colorTheme": "Kimbie Dark",
+    "workbench.startupEditor": "none",
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Calibri, monospace",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
 }
