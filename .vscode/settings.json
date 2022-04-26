@@ -3,12 +3,13 @@
     "workbench.startupEditor": "none",
     "files.autoSave": "onFocusChange",
     "editor.fontSize": 15,
-    "editor.fontFamily": "Calibri, monospace",
+    "editor.fontFamily": "consolas , 'courier new' , monospace",
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "java.format.settings.url": ".vscode/java-formatter.xml",
     "[java]": {
         "editor.insertSpaces": false,
-        "editor.tabSize": 46
-    }
+        "editor.tabSize": 5
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
