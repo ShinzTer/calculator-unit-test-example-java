@@ -67,7 +67,7 @@
               <archive>
                 <manifest>
                     <mainClass>
-                        isap.vstu.by.App
+                        com.github.stokito.unitTestExample.calculator.Main
                     </mainClass>
                 </manifest>
               </archive>
